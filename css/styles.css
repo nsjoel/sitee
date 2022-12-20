@@ -1,0 +1,28 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 20px;
+    height: 2px;
+    width: 30%;
+}
+
+h1,h3{
+    color: #66BFBF;
+}
+
+h1{
+    color: red;
+
+}
+
+.bacon{
+    background-color: green;
+}
+
+ 
